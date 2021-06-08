@@ -1,0 +1,23 @@
+h1{
+    color: aqua;
+    font-family: Algerian;
+}
+p{
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+}
+h2.h3{
+    color: blue;
+    font-family: Algerian;
+}
+ul{
+    color: aqua;
+    font-family: Algerian;
+    font-size: 20px;
+}
+ol{
+    color: aqua;
+    font-family: Algerian;
+    font-size: 20px;
+}
